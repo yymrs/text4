@@ -1,2 +1,2 @@
 如何使用git的命令：
-git add 添加到暂存区，git commit -m '提交提示', git push -u orihin master 提交到远程的git仓储
+git add 添加到暂存区，git commit -m '提交提示', git push -u origin master 提交到远程的git仓储
